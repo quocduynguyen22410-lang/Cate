@@ -20,15 +20,6 @@ Make sure you install the following dependencies:
 * **Mediapipe**: 0.10.21
 * **OpenCV**: 4.8.0.74
 * **Pandas**: 3.0.1
-
-Install all packages:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## How to Record Data
 
 ### General Instructions
