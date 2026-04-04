@@ -1,3 +1,0 @@
-- Game chụp bóng bằng ngón trỏ
-- Speed sẽ tăng dần rồi giảm
-- Một quả bóng chạm xuống đất là thua
